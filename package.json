@@ -1,0 +1,27 @@
+{
+  "name": "sunny-friends",
+  "version": "1.0.0",
+  "description": "It's Always Sunny",
+  "main": "server.js",
+  "scripts": {
+    "test": "Jabroni",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kellerb77/Sunny-Friends.git"
+  },
+  "keywords": [
+    "Sunny"
+  ],
+  "author": "Ben Keller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kellerb77/Sunny-Friends/issues"
+  },
+  "homepage": "https://github.com/Kellerb77/Sunny-Friends#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  }
+}
